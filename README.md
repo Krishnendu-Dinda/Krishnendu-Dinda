@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Krishnendu-Dinda
 - 👀 I’m interested in Embedded System,Creating new things.
 - 🌱 I’m currently learning STM32F103C8 board based on ARM Cortex-M3.
-- 📫 How to reach me @ reachtodinda@gmail.com
+- 📫 How to reach me @ krishnendudinda404@gmail.com
 - 😄 Pronouns: ...HE/HIM
 
 <!---
